@@ -7,7 +7,7 @@ import Home from "./pages/home/Home";
 function App() {
 
   return (
-    <div className=' flex flex-col min-h-screen max-w-screen items-center bg-gray-300'>
+    <div className=' flex flex-col min-h-screen max-w-screen items-center bg-[#F9F9F9]'>
       <Header />
       <main className="w-full max-w-[1172px] flex-1">
         <Routes>

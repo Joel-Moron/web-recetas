@@ -1,13 +1,14 @@
-import criolla from './img/criolla.jpg';
+import cocaymentos from './imgbuscado/cocaymentos.jpg';
 import vegana from './img/vegana.jpg';
 import fitness from './img/choosemyplate-healthy-food-and-plate-of-usda-royalty-free-image-1610967069_.jpg';
 import pasta from './img/elmo.jpg';
 
-export const categorias = [
+export const masbuscado = [
     {
         "id": 1,
-        "tittle": "Criolla",
-        "img": criolla
+        "tittle": "Coca cola con mentos",
+        "img": cocaymentos,
+        "text": "Tan sólo necesitas una Coca Cola Light y unos cuatro caramelos Mentos para conseguir tan majestuoso géiser y además si te apetece, lo grabas en video y lo subes a You Tube. No nos extrañaría que pronto se pueda realizar algún concurso de esta nueva modalidad de géiser."
     },
     {
         "id": 2,
